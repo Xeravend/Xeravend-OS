@@ -1,9 +1,1 @@
-############################################
-# XERAVEND GIT INGNORE FILE
-############################################
-
-#Exclude Stuff Used In Your Build Enviroment
-/_BUILDENV/
-
-#Exclude Stuff Used To Compile The OS
-/_OUTPUT/
+#XERAVEND GIT INGNORE FILE
