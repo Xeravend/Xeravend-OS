@@ -1,5 +1,5 @@
 global xeravend_start
-extern main xkmain
+extern xkmain
 
 section .text
 bits 32
