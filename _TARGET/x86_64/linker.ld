@@ -1,4 +1,4 @@
-ENTRY(start)
+ENTRY(xeravend_start)
 
 SECTIONS
 {
@@ -6,7 +6,7 @@ SECTIONS
 
 	.boot :
 	{
-		KEEP(*(.multiboot_header))
+		KEEP(*(.xeravend_mutliboot_header))
 	}
 
 	.text :
