@@ -1,6 +1,6 @@
 # Xeravend
 
-Welcome to Xeravend. This an open source 32/64 bit operating system project.
+Welcome to Xeravend. This an open source 64 bit operating system project.
 
 Why This Project?
 ================================
